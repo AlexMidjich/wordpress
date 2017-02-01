@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Alex Portfolio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>My Portfolio</title>
 	<?php wp_head(); ?>
 </head>
 
